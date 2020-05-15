@@ -19,7 +19,7 @@
 // Import the Scanner
 import java.util.Scanner;
 
-public class Main {
+public class AverageBPCalc {
 
     public static double averageSystolic(double[] sysNum) {
 
